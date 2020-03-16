@@ -1,0 +1,26 @@
+[3/16/2020]
+
+I talked to a career advisor, who is encouraging me to start a personal project to bolster my chances of landing a job in Software Engineering.  This speedrunning assist tool has been an idea in my mind for a while.  I actually tried implementing something like 6 years ago, but I lacked both the motivation and the skill to actually accomplish what I was hoping for.  Now is my chance to build something I can take pride in and hopefully help me get a job.
+
+I shot ValientLink a message about my idea.  He hadn't heard of something similar, so that's good, though I need to look into it further if something like this already exists.  The idea itself was tricky to explain, so I'm going to create something visual to further explain the concept so I can get feedback.  This will help my design process.
+
+-Find out if something similar exists
+  Splits.io has analytics (paired with Livesplit), but not this idea
+  I didn't find anything else.  A reddit thread concerning an algorithmic solution to routing was discussed, but again, not exactly what I'm looking to do (though that could be an extension, albeit difficult to solve (Traveling Salesman, etc)
+
+-Come up with a basic design to prototype and show others for feedback
+  Sketched a simple design on paper.  Specifics obviously aren't there, but I'm happy with the idea.
+
+-Discuss with other speedrunners the idea
+
+-Build a requirements document for the prototype and beyond with feedback from speedrunners
+
+-Investigate technologies that fulfill the requirements
+  -AWS server?
+  -What kind of Database?
+  -Frontend with React?
+  -Backend with Node JS?
+  -Website, desktop app, phone app?
+  -Integration with other speedrunning tools, like livesplit and capture cards?
+
+  I Studied a little Ruby on Rails, and I think I want to go in that direction, both to learn a new framework/language and because it seems like a good fit
