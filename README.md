@@ -1,2 +1,24 @@
-# speedrun-assist-tool
-Tool to help speedrunners (people playing video games to completion as fast as possible) find optimal routes and decisions by stitching together timed segments of runs.
+# README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...

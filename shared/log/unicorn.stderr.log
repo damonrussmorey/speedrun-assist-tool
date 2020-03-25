@@ -1,0 +1,184 @@
+I, [2020-03-19T01:38:29.377158 #11852]  INFO -- : Refreshing Gem list
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/type.rb:27: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/type/adapter_specific_registry.rb:9: warning: The called method `add_modifier' is defined here
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/store.rb:106: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/store.rb:109: warning: The called method `store_accessor' is defined here
+I, [2020-03-19T01:38:30.412958 #11852]  INFO -- : listening on addr=/home/ubuntu/speedrun-assist-tool/sat/shared/sockets/unicorn.sock fd=8
+I, [2020-03-19T01:38:30.413078 #11852]  INFO -- : worker=0 spawning...
+I, [2020-03-19T01:38:30.415031 #11852]  INFO -- : worker=1 spawning...
+I, [2020-03-19T01:38:30.416201 #11852]  INFO -- : master process ready
+I, [2020-03-19T01:38:30.417239 #11882]  INFO -- : worker=0 spawned pid=11882
+I, [2020-03-19T01:38:30.417389 #11882]  INFO -- : worker=0 ready
+I, [2020-03-19T01:38:30.418207 #11883]  INFO -- : worker=1 spawned pid=11883
+I, [2020-03-19T01:38:30.418327 #11883]  INFO -- : worker=1 ready
+I, [2020-03-19T01:38:55.407595 #11852]  INFO -- : reaped #<Process::Status: pid 11882 exit 0> worker=0
+I, [2020-03-19T01:38:55.407695 #11852]  INFO -- : reaped #<Process::Status: pid 11883 exit 0> worker=1
+I, [2020-03-19T01:38:55.407785 #11852]  INFO -- : master complete
+I, [2020-03-19T01:39:00.729225 #11888]  INFO -- : Refreshing Gem list
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/type.rb:27: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/type/adapter_specific_registry.rb:9: warning: The called method `add_modifier' is defined here
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/store.rb:106: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/store.rb:109: warning: The called method `store_accessor' is defined here
+I, [2020-03-19T01:39:01.431243 #11888]  INFO -- : unlinking existing socket=/home/ubuntu/speedrun-assist-tool/sat/shared/sockets/unicorn.sock
+I, [2020-03-19T01:39:01.431415 #11888]  INFO -- : listening on addr=/home/ubuntu/speedrun-assist-tool/sat/shared/sockets/unicorn.sock fd=8
+I, [2020-03-19T01:39:01.431523 #11888]  INFO -- : worker=0 spawning...
+I, [2020-03-19T01:39:01.433519 #11888]  INFO -- : worker=1 spawning...
+I, [2020-03-19T01:39:01.434977 #11888]  INFO -- : master process ready
+I, [2020-03-19T01:39:01.436100 #11918]  INFO -- : worker=0 spawned pid=11918
+I, [2020-03-19T01:39:01.436237 #11918]  INFO -- : worker=0 ready
+I, [2020-03-19T01:39:01.437129 #11919]  INFO -- : worker=1 spawned pid=11919
+I, [2020-03-19T01:39:01.437248 #11919]  INFO -- : worker=1 ready
+I, [2020-03-19T01:48:52.050448 #11888]  INFO -- : reaped #<Process::Status: pid 11918 exit 0> worker=0
+I, [2020-03-19T01:48:52.050578 #11888]  INFO -- : reaped #<Process::Status: pid 11919 exit 0> worker=1
+I, [2020-03-19T01:48:52.050656 #11888]  INFO -- : master complete
+I, [2020-03-19T01:56:51.369689 #22299]  INFO -- : Refreshing Gem list
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/type.rb:27: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/type/adapter_specific_registry.rb:9: warning: The called method `add_modifier' is defined here
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/store.rb:106: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/store.rb:109: warning: The called method `store_accessor' is defined here
+I, [2020-03-19T01:56:52.444708 #22299]  INFO -- : unlinking existing socket=/home/ubuntu/speedrun-assist-tool/sat/shared/sockets/unicorn.sock
+I, [2020-03-19T01:56:52.444877 #22299]  INFO -- : listening on addr=/home/ubuntu/speedrun-assist-tool/sat/shared/sockets/unicorn.sock fd=9
+I, [2020-03-19T01:56:52.444993 #22299]  INFO -- : worker=0 spawning...
+I, [2020-03-19T01:56:52.446966 #22299]  INFO -- : worker=1 spawning...
+I, [2020-03-19T01:56:52.448190 #22299]  INFO -- : master process ready
+I, [2020-03-19T01:56:52.463457 #22304]  INFO -- : worker=1 spawned pid=22304
+I, [2020-03-19T01:56:52.463602 #22304]  INFO -- : worker=1 ready
+I, [2020-03-19T01:56:52.464011 #22303]  INFO -- : worker=0 spawned pid=22303
+I, [2020-03-19T01:56:52.464133 #22303]  INFO -- : worker=0 ready
+I, [2020-03-19T01:59:10.550613 #22299]  INFO -- : reaped #<Process::Status: pid 22303 exit 0> worker=0
+I, [2020-03-19T01:59:10.550705 #22299]  INFO -- : reaped #<Process::Status: pid 22304 exit 0> worker=1
+I, [2020-03-19T01:59:10.550786 #22299]  INFO -- : master complete
+I, [2020-03-19T01:59:57.559723 #1183]  INFO -- : Refreshing Gem list
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/type.rb:27: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/type/adapter_specific_registry.rb:9: warning: The called method `add_modifier' is defined here
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/store.rb:106: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/store.rb:109: warning: The called method `store_accessor' is defined here
+I, [2020-03-19T02:00:00.772963 #1183]  INFO -- : unlinking existing socket=/home/ubuntu/speedrun-assist-tool/sat/shared/sockets/unicorn.sock
+I, [2020-03-19T02:00:00.773128 #1183]  INFO -- : listening on addr=/home/ubuntu/speedrun-assist-tool/sat/shared/sockets/unicorn.sock fd=9
+I, [2020-03-19T02:00:00.773237 #1183]  INFO -- : worker=0 spawning...
+I, [2020-03-19T02:00:00.775246 #1183]  INFO -- : worker=1 spawning...
+I, [2020-03-19T02:00:00.776501 #1183]  INFO -- : master process ready
+I, [2020-03-19T02:00:00.785133 #1265]  INFO -- : worker=0 spawned pid=1265
+I, [2020-03-19T02:00:00.785292 #1265]  INFO -- : worker=0 ready
+I, [2020-03-19T02:00:00.786147 #1266]  INFO -- : worker=1 spawned pid=1266
+I, [2020-03-19T02:00:00.786258 #1266]  INFO -- : worker=1 ready
+bundler: failed to load command: unicorn (/home/ubuntu/.rbenv/versions/2.7.0/bin/unicorn)
+ArgumentError: Already running on PID:1183 (or pid=/home/ubuntu/speedrun-assist-tool/sat/shared/pids/unicorn.pid is stale)
+  /home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/unicorn-5.5.3/lib/unicorn/http_server.rb:207:in `pid='
+  /home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/unicorn-5.5.3/lib/unicorn/http_server.rb:139:in `start'
+  /home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/unicorn-5.5.3/bin/unicorn:128:in `<top (required)>'
+  /home/ubuntu/.rbenv/versions/2.7.0/bin/unicorn:23:in `load'
+  /home/ubuntu/.rbenv/versions/2.7.0/bin/unicorn:23:in `<top (required)>'
+bundler: failed to load command: unicorn (/home/ubuntu/.rbenv/versions/2.7.0/bin/unicorn)
+ArgumentError: Already running on PID:1183 (or pid=/home/ubuntu/speedrun-assist-tool/sat/shared/pids/unicorn.pid is stale)
+  /home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/unicorn-5.5.3/lib/unicorn/http_server.rb:207:in `pid='
+  /home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/unicorn-5.5.3/lib/unicorn/http_server.rb:139:in `start'
+  /home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/unicorn-5.5.3/bin/unicorn:128:in `<top (required)>'
+  /home/ubuntu/.rbenv/versions/2.7.0/bin/unicorn:23:in `load'
+  /home/ubuntu/.rbenv/versions/2.7.0/bin/unicorn:23:in `<top (required)>'
+I, [2020-03-19T02:24:08.731182 #1183]  INFO -- : reaped #<Process::Status: pid 1265 exit 0> worker=0
+I, [2020-03-19T02:24:08.831671 #1183]  INFO -- : reaped #<Process::Status: pid 1266 exit 0> worker=1
+I, [2020-03-19T02:24:08.831793 #1183]  INFO -- : master complete
+I, [2020-03-19T02:24:24.194212 #4975]  INFO -- : Refreshing Gem list
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/type.rb:27: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/type/adapter_specific_registry.rb:9: warning: The called method `add_modifier' is defined here
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/store.rb:106: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/store.rb:109: warning: The called method `store_accessor' is defined here
+I, [2020-03-19T02:24:24.887676 #4975]  INFO -- : unlinking existing socket=/home/ubuntu/speedrun-assist-tool/sat/shared/sockets/unicorn.sock
+I, [2020-03-19T02:24:24.887836 #4975]  INFO -- : listening on addr=/home/ubuntu/speedrun-assist-tool/sat/shared/sockets/unicorn.sock fd=9
+I, [2020-03-19T02:24:24.887940 #4975]  INFO -- : worker=0 spawning...
+I, [2020-03-19T02:24:24.889568 #4975]  INFO -- : worker=1 spawning...
+I, [2020-03-19T02:24:24.890689 #4975]  INFO -- : master process ready
+I, [2020-03-19T02:24:24.898802 #4978]  INFO -- : worker=0 spawned pid=4978
+I, [2020-03-19T02:24:24.898945 #4978]  INFO -- : worker=0 ready
+I, [2020-03-19T02:24:24.899769 #4979]  INFO -- : worker=1 spawned pid=4979
+I, [2020-03-19T02:24:24.899911 #4979]  INFO -- : worker=1 ready
+I, [2020-03-19T02:30:17.873971 #4975]  INFO -- : reaped #<Process::Status: pid 4978 exit 0> worker=0
+I, [2020-03-19T02:30:17.874069 #4975]  INFO -- : reaped #<Process::Status: pid 4979 exit 0> worker=1
+I, [2020-03-19T02:30:17.874134 #4975]  INFO -- : master complete
+I, [2020-03-19T02:34:44.962103 #6390]  INFO -- : Refreshing Gem list
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/type.rb:27: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/type/adapter_specific_registry.rb:9: warning: The called method `add_modifier' is defined here
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/store.rb:106: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/store.rb:109: warning: The called method `store_accessor' is defined here
+I, [2020-03-19T02:34:45.665284 #6390]  INFO -- : unlinking existing socket=/home/ubuntu/speedrun-assist-tool/sat/shared/sockets/unicorn.sock
+I, [2020-03-19T02:34:45.665442 #6390]  INFO -- : listening on addr=/home/ubuntu/speedrun-assist-tool/sat/shared/sockets/unicorn.sock fd=9
+I, [2020-03-19T02:34:45.665549 #6390]  INFO -- : worker=0 spawning...
+I, [2020-03-19T02:34:45.667220 #6390]  INFO -- : worker=1 spawning...
+I, [2020-03-19T02:34:45.668339 #6390]  INFO -- : master process ready
+I, [2020-03-19T02:34:45.682169 #6393]  INFO -- : worker=0 spawned pid=6393
+I, [2020-03-19T02:34:45.682305 #6393]  INFO -- : worker=0 ready
+I, [2020-03-19T02:34:45.683126 #6394]  INFO -- : worker=1 spawned pid=6394
+I, [2020-03-19T02:34:45.683249 #6394]  INFO -- : worker=1 ready
+I, [2020-03-19T02:39:53.460380 #6390]  INFO -- : reaped #<Process::Status: pid 6393 exit 0> worker=0
+I, [2020-03-19T02:39:53.460490 #6390]  INFO -- : reaped #<Process::Status: pid 6394 exit 0> worker=1
+I, [2020-03-19T02:39:53.460559 #6390]  INFO -- : master complete
+I, [2020-03-19T02:40:41.182427 #7602]  INFO -- : Refreshing Gem list
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/type.rb:27: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/type/adapter_specific_registry.rb:9: warning: The called method `add_modifier' is defined here
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/store.rb:106: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/store.rb:109: warning: The called method `store_accessor' is defined here
+I, [2020-03-19T02:40:41.883834 #7602]  INFO -- : unlinking existing socket=/home/ubuntu/speedrun-assist-tool/sat/shared/sockets/unicorn.sock
+I, [2020-03-19T02:40:41.883993 #7602]  INFO -- : listening on addr=/home/ubuntu/speedrun-assist-tool/sat/shared/sockets/unicorn.sock fd=9
+I, [2020-03-19T02:40:41.884133 #7602]  INFO -- : worker=0 spawning...
+I, [2020-03-19T02:40:41.885863 #7602]  INFO -- : worker=1 spawning...
+I, [2020-03-19T02:40:41.886941 #7602]  INFO -- : master process ready
+I, [2020-03-19T02:40:41.901061 #7605]  INFO -- : worker=0 spawned pid=7605
+I, [2020-03-19T02:40:41.901182 #7605]  INFO -- : worker=0 ready
+I, [2020-03-19T02:40:41.902038 #7606]  INFO -- : worker=1 spawned pid=7606
+I, [2020-03-19T02:40:41.902150 #7606]  INFO -- : worker=1 ready
+I, [2020-03-19T02:40:49.536169 #7602]  INFO -- : reaped #<Process::Status: pid 7605 exit 0> worker=0
+I, [2020-03-19T02:40:49.536262 #7602]  INFO -- : reaped #<Process::Status: pid 7606 exit 0> worker=1
+I, [2020-03-19T02:40:49.536324 #7602]  INFO -- : master complete
+I, [2020-03-19T02:41:42.518236 #7737]  INFO -- : Refreshing Gem list
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/type.rb:27: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/type/adapter_specific_registry.rb:9: warning: The called method `add_modifier' is defined here
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/store.rb:106: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/store.rb:109: warning: The called method `store_accessor' is defined here
+I, [2020-03-19T02:41:43.222474 #7737]  INFO -- : unlinking existing socket=/home/ubuntu/speedrun-assist-tool/sat/shared/sockets/unicorn.sock
+I, [2020-03-19T02:41:43.222630 #7737]  INFO -- : listening on addr=/home/ubuntu/speedrun-assist-tool/sat/shared/sockets/unicorn.sock fd=9
+I, [2020-03-19T02:41:43.222744 #7737]  INFO -- : worker=0 spawning...
+I, [2020-03-19T02:41:43.224469 #7737]  INFO -- : worker=1 spawning...
+I, [2020-03-19T02:41:43.225611 #7737]  INFO -- : master process ready
+I, [2020-03-19T02:41:43.239947 #7740]  INFO -- : worker=0 spawned pid=7740
+I, [2020-03-19T02:41:43.240960 #7741]  INFO -- : worker=1 spawned pid=7741
+I, [2020-03-19T02:41:43.241091 #7741]  INFO -- : worker=1 ready
+I, [2020-03-19T02:41:43.241259 #7740]  INFO -- : worker=0 ready
+I, [2020-03-19T02:44:19.669410 #7737]  INFO -- : reaped #<Process::Status: pid 7740 exit 0> worker=0
+I, [2020-03-19T02:44:19.669516 #7737]  INFO -- : reaped #<Process::Status: pid 7741 exit 0> worker=1
+I, [2020-03-19T02:44:19.669593 #7737]  INFO -- : master complete
+I, [2020-03-19T02:45:05.131767 #1116]  INFO -- : Refreshing Gem list
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/type.rb:27: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/type/adapter_specific_registry.rb:9: warning: The called method `add_modifier' is defined here
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/store.rb:106: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/store.rb:109: warning: The called method `store_accessor' is defined here
+I, [2020-03-19T02:45:07.824143 #1116]  INFO -- : unlinking existing socket=/home/ubuntu/speedrun-assist-tool/sat/shared/sockets/unicorn.sock
+I, [2020-03-19T02:45:07.824341 #1116]  INFO -- : listening on addr=/home/ubuntu/speedrun-assist-tool/sat/shared/sockets/unicorn.sock fd=9
+I, [2020-03-19T02:45:07.824445 #1116]  INFO -- : worker=0 spawning...
+I, [2020-03-19T02:45:07.825886 #1116]  INFO -- : worker=1 spawning...
+I, [2020-03-19T02:45:07.826893 #1116]  INFO -- : master process ready
+I, [2020-03-19T02:45:07.845883 #1182]  INFO -- : worker=1 spawned pid=1182
+I, [2020-03-19T02:45:07.846041 #1182]  INFO -- : worker=1 ready
+I, [2020-03-19T02:45:07.846310 #1181]  INFO -- : worker=0 spawned pid=1181
+I, [2020-03-19T02:45:07.846424 #1181]  INFO -- : worker=0 ready
+I, [2020-03-19T02:50:45.226755 #1116]  INFO -- : reaped #<Process::Status: pid 1181 exit 0> worker=0
+I, [2020-03-19T02:50:45.327239 #1116]  INFO -- : reaped #<Process::Status: pid 1182 exit 0> worker=1
+I, [2020-03-19T02:50:45.327359 #1116]  INFO -- : master complete
+I, [2020-03-19T14:53:14.805860 #17126]  INFO -- : Refreshing Gem list
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/type.rb:27: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/type/adapter_specific_registry.rb:9: warning: The called method `add_modifier' is defined here
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/store.rb:106: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/activerecord-6.0.2.1/lib/active_record/store.rb:109: warning: The called method `store_accessor' is defined here
+I, [2020-03-19T14:53:15.565376 #17126]  INFO -- : unlinking existing socket=/home/ubuntu/speedrun-assist-tool/shared/sockets/unicorn.sock
+I, [2020-03-19T14:53:15.565536 #17126]  INFO -- : listening on addr=/home/ubuntu/speedrun-assist-tool/shared/sockets/unicorn.sock fd=9
+I, [2020-03-19T14:53:15.565642 #17126]  INFO -- : worker=0 spawning...
+I, [2020-03-19T14:53:15.567125 #17126]  INFO -- : master process ready
+I, [2020-03-19T14:53:15.580899 #17129]  INFO -- : worker=0 spawned pid=17129
+I, [2020-03-19T14:53:15.581030 #17129]  INFO -- : worker=0 ready
+bundler: failed to load command: unicorn (/home/ubuntu/.rbenv/versions/2.7.0/bin/unicorn)
+ArgumentError: Already running on PID:17126 (or pid=/home/ubuntu/speedrun-assist-tool/shared/pids/unicorn.pid is stale)
+  /home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/unicorn-5.5.3/lib/unicorn/http_server.rb:207:in `pid='
+  /home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/unicorn-5.5.3/lib/unicorn/http_server.rb:139:in `start'
+  /home/ubuntu/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/unicorn-5.5.3/bin/unicorn:128:in `<top (required)>'
+  /home/ubuntu/.rbenv/versions/2.7.0/bin/unicorn:23:in `load'
+  /home/ubuntu/.rbenv/versions/2.7.0/bin/unicorn:23:in `<top (required)>'

@@ -24,3 +24,8 @@ I shot ValientLink a message about my idea.  He hadn't heard of something simila
   -Integration with other speedrunning tools, like livesplit and capture cards?
 
   I Studied a little Ruby on Rails, and I think I want to go in that direction, both to learn a new framework/language and because it seems like a good fit
+
+
+[3/17-25/2020]
+
+Figured out how to setup RoR on an EC2 AWS server.  I'll have to figure out how to switch between production and development environments.  I'll develop local on my machine, using sqlite that is default, but on the server will use postgresql.  The tricky part was using Unicorn as a webserver and nginx as HTTP reverse proxy server, which I don't really understand why both are necessary.  But ultimately the webpage is found, so that's good.
